@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+/.mvn/wrapper/maven-wrapper.jar
+/.mvn/wrapper/maven-wrapper.properties
+/src/test/java/com/mongo/example/mongodbexample/MongodbexampleApplicationTests.java
+/mvnw
+/mvnw.cmd
